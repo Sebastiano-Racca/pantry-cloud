@@ -1,6 +1,6 @@
 <?php
 
-const pantry_id = "";
+const pantry_id = "YOUR_PANTRY_ID";
 
 
 function get_pantry(){ // Retreives your pantry database information
