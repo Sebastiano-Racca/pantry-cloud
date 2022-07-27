@@ -1,5 +1,5 @@
 # Pantry-Cloud
-Use this helper library to interact with the [Pantry](https://getpantry.cloud) JSON storage API. The documentation for the Pantry API can be found [here](https://documenter.getpostman.com/view/3281832/SzmZeMLC).
+Use this library to interact with the [Pantry](https://getpantry.cloud) JSON storage API. The documentation for the Pantry API can be found [here](https://documenter.getpostman.com/view/3281832/SzmZeMLC).<br>
 
 ## Installing
 1. Clone this repostory and include the [pantry.php](https://github.com/sebaOfficial/pantry-cloud/blob/main/pantry.php) file or just copy that file
