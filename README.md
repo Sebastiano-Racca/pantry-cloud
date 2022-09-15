@@ -33,10 +33,10 @@ Usage: `update_basket("YOUR_BASKET_NAME", ["ARRAY_DATA"]);`
 
 `delete_basket`
 > Delete the entire basket. Warning, this action cannot be undone.<br>
-Usage: `revrite_basket("YOUR_BASKET_NAME");`
+Usage: `delete_basket("YOUR_BASKET_NAME");`
 
 You can find a very basic example [here](https://github.com/sebaOfficial/pantry-cloud/blob/main/basic-example.php) and a simple example [here](https://github.com/sebaOfficial/pantry-cloud/blob/main/webpage-example.php).<br>
-To better understand the calls these functions make, read through the [Pantry API Documentation](https://documenter.getpostman.com/view/3281832/SzmZeMLC) as well.
+To a better understanding of the calls these functions make, read through the [Pantry API Documentation](https://documenter.getpostman.com/view/3281832/SzmZeMLC) as well.
 
 ## Credits
 - [Creator of this repostory](https://github.com/sebaOfficial)
